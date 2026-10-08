@@ -1,0 +1,12 @@
+SPORT LIFE - RESERVAS SOLARIUM
+Extrae la carpeta y guardala en Documentos. Abri Reservas-Solarium.html.
+CREAR-ACCESO-DIRECTO.vbs crea el icono del escritorio.
+
+Completá nombre y teléfono, elegí el paquete y pulsá Cargar paquete al cliente.
+Reservar no descuenta sesiones. Registrar sesión realizada descuenta una sesión.
+La sesión no se puede descontar dos veces. No se pueden registrar sesiones sin saldo.
+Usá siempre el mismo nombre y teléfono para identificar al cliente.
+Las reservas anteriores se conservan, pero no acreditan compras automáticamente.
+Guardar copia de reservas respalda reservas y compras en JSON.
+Datos locales del navegador: conservá la carpeta y no borres sus datos.
+No comparte datos entre computadoras. Evitá operar en varias pestañas a la vez.
